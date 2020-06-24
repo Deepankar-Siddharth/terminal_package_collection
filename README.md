@@ -13,7 +13,7 @@
 
  apt install git -y
 
- git clone https://github.com/DEEPANKAR-SIDHARTH/terminal_package_collection
+ git clone https://github.com/Deepankar-Siddharth/terminal_package_collection
 
  cd terminal_package_collection
 
