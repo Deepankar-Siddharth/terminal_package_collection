@@ -1,8 +1,8 @@
-#!/bin/bash
+
 echo $red 
 echo "This  Script is to install all Basic additional packages & updates."
 echo $white
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
@@ -28,7 +28,7 @@ echo $green
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛ WeSoDev.Tech ÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
@@ -47,7 +47,7 @@ echo $blue
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛ WeSoDev.Tech ÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
@@ -66,7 +66,7 @@ echo $white
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛ WeSoDev.Tech ÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
@@ -86,7 +86,7 @@ echo $red
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛ WeSoDev.Tech ÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
@@ -108,7 +108,7 @@ echo $green
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛ WeSoDev.Tech ÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
@@ -123,7 +123,7 @@ apt install wcalc -y
 apt install openssl
 apt install bmon -y
 echo $white
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
@@ -137,7 +137,7 @@ echo "┃  🄾    ┃"
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛ WeSoDev.Tech ÛÛÛÛÛÛÛÛ"
 echo "ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ"
-echo "╭━━━━━━╮ "
+echo "╭━━━━━━━╮ "
 echo "┃ ● ══  ┃ " 
 echo "┃███████┃ "
 echo "┃███████┃ "
