@@ -7,7 +7,7 @@
 
 1. Install And Open Termux
 
-2. Put Given Commands In It :
+2. Put Given Commands In It : (Try to copy/paste)
 
  apt-get update -y 
 
